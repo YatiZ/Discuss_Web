@@ -1,3 +1,6 @@
+About Project
+This website includes authentication system using github. The UI is written with next.js ui. In this website, users can post their topics and writes comments on others's post. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
